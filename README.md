@@ -59,7 +59,7 @@ This React.js application serves as my personal portfolio website, showcasing my
 2,Install dependencies: Navigate to the project directory:
 
 **Bash**
-* cd introduction-to-openai
+* cd dawit-shewangzaw
 
 Install the required dependencies:
 
